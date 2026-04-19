@@ -46,21 +46,30 @@ Respuesta:
 
 
 
+## 🧪 Pruebas de la API
 
-🔹 Crear producto (POST)
+### 🔹 GET - Listar productos
+![GET productos](docs/get_productos.PNG)
 
+---
 
+### 🔹 GET - Producto no encontrado (404)
+![GET producto no encontrado](docs/get_producto_no_encontrado.PNG)
 
+---
 
-🔹 Actualizar producto (PUT)
+### 🔹 POST - Crear producto
+![POST crear producto](docs/post_crear_producto.PNG)
 
+---
 
+### 🔹 PUT - Actualizar producto
+![PUT producto](docs/put.PNG)
 
+---
 
-🔹 Eliminar producto (DELETE)
-
-
-
+### 🔹 DELETE - Eliminar producto
+![DELETE producto](docs/delete_producto.PNG)
 
 ❗ Manejo de errores
 
@@ -73,4 +82,4 @@ Ejemplo:
 }
 👨‍💻 Autor
 
-Tu Nombre
+Diego Armando Cayetano Bautista Cano
